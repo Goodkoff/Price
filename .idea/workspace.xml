@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51ee4354-ac94-4e54-9352-a1987f76950c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sheme1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sheme2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sheme3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sheme4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/npm.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prices.html" afterPath="$PROJECT_DIR$/prices.html" />
     </list>
     <ignored path="Price.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +32,8 @@
       <file leaf-file-name="prices.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prices.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="408">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -110,6 +115,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Price" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Price" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Price" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,15 +229,15 @@
       <updated>1467371462802</updated>
       <workItem from="1467371464071" duration="10181000" />
       <workItem from="1467803026423" duration="613000" />
-      <workItem from="1467885493851" duration="516000" />
+      <workItem from="1467885493851" duration="975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11310000" />
+    <option name="totallyTimeSpent" value="11769000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="412" y="65" width="1445" height="1000" extended-state="0" />
+    <frame x="412" y="65" width="1445" height="1000" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16445066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -279,8 +298,8 @@
     <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/prices.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="408">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding />
         </state>
       </provider>
